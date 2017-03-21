@@ -1,0 +1,2 @@
+52.58.151.224
+ec2-52-58-151-224.eu-central-1.compute.amazonaws.com

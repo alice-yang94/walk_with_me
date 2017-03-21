@@ -1,2 +1,3 @@
-# walk_with_me
-third year individual project
+# Walk With Me
+
+Walk With Me backend. **ARCHIVED**
